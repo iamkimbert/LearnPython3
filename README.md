@@ -43,8 +43,8 @@ This repository is organized by chapters and exercises from the book:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/learn-python3-hard-way.git
-   cd learn-python3-hard-way
+   git clone https://github.com/iamkimbert/learnPython3.git
+   cd learnPython3
    ```
 
 2. **Navigate to an Exercise**:
