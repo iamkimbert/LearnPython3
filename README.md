@@ -1,7 +1,3 @@
-Here’s a well-structured `README.md` template for your **Learn Python 3 the Hard Way** repository. It provides an overview of the project, instructions, and a professional touch.
-
----
-
 # **Learn Python 3 the Hard Way**
 
 Welcome to the repository for my journey through **Learn Python 3 the Hard Way** by Zed A. Shaw. This repository contains the exercises, notes, and projects I complete as I work through the book.
