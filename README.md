@@ -33,6 +33,7 @@ This repository is organized by chapters and exercises from the book:
 ├── ex1/              # Exercise 1 and related files
 ├── ex2/              # Exercise 2 and related files
 ├── ex3/              # Exercise 3 and related files
+├── ex35/             # Exercise 35 and related files
 ├── ex4/              # Exercise 4 and related files
 └── README.md         # This file
 ```
