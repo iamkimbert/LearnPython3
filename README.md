@@ -31,6 +31,7 @@ This repository is organized by chapters and exercises from the book:
 
 ```
 ├── ex23/              # Exercise 23 and related files
+├── ex24/              # Exercise 24 and related files
 ├── ex1/              # Exercise 1 and related filesv
 ├── ex2/              # Exercise 2 and related files
 ├── ex21/              # Exercise 21 and related files
