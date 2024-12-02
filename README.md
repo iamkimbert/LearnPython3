@@ -30,7 +30,8 @@ For more information, visit the official book site: [Learn Python the Hard Way](
 This repository is organized by chapters and exercises from the book:
 
 ```
-├── ex1/              # Exercise 1 and related files
+├── ex23/              # Exercise 23 and related files
+├── ex1/              # Exercise 1 and related filesv
 ├── ex2/              # Exercise 2 and related files
 ├── ex21/              # Exercise 21 and related files
 ├── ex3/              # Exercise 3 and related files
