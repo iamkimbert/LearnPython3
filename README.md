@@ -39,13 +39,14 @@ This repository is organized by chapters and exercises from the book:
 ├── ex40/              # Exercise 40 and related files
 ├── ex41/              # Exercise 41 and related files
 ├── ex42/              # Exercise 42 and related files
-├── ex1/              # Exercise 1 and related filesv
-├── ex2/              # Exercise 2 and related files
+├── ex43_classes.py/   # Exercise 43_classes and related files
+├── ex1/               # Exercise 1 and related filesv
+├── ex2/               # Exercise 2 and related files
 ├── ex21/              # Exercise 21 and related files
-├── ex3/              # Exercise 3 and related files
-├── ex35/             # Exercise 35 and related files
-├── ex4/              # Exercise 4 and related files
-└── README.md         # This file
+├── ex3/               # Exercise 3 and related files
+├── ex35/              # Exercise 35 and related files
+├── ex4/               # Exercise 4 and related files
+└── README.md          # This file
 ```
 
 ---
